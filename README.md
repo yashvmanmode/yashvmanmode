@@ -1,9 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]()
 
 <h1 align="center">Hi 👋, I'm Yash Manmode</h1>
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 
-<img align="right" alt="coring" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coring" width=800 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmanmode2502&label=Profile%20views&color=0e75b6&style=flat" alt="yashmanmode2502" /> </p>
 
