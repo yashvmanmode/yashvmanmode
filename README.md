@@ -1,4 +1,4 @@
-[![MasterHead]()
+![MasterHead](https://nira.ac.in/images/machine-banner-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Yash Manmode</h1>
 <h3 align="center">A passionate Software Development Engineer from India</h3>
