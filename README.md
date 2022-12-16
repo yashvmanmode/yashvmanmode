@@ -19,7 +19,6 @@
 
 - 📄 Connect with Me on [https://www.linkedin.com/in/yash-manmode/](https://www.linkedin.com/in/yash-manmode/)
 
-- ⚡ Fun fact **I Think I have a Fluctuating Mind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
