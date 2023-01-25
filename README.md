@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **yashmanmode.official@gmail.com**
 
-- 📄 Connect with Me on LinkedIn: (https://www.linkedin.com/in/yash025/)
+- 📄 Connect with Me on LinkedIn: **https://www.linkedin.com/in/yash025**
 
 
 <h3 align="left">Connect with me:</h3>
