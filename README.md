@@ -34,3 +34,8 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=YASHMANMODE2502&show_icons=true&theme=radical" />
 </div>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
+
