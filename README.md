@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Machine Learning and Deep Learning**
 
-- 🤝 I’m looking for **Internships in Tech Giants**
+- 🤝 I’m looking for **Research Internship at prestigious institutions**
 
 - 💬 Ask me about **Artificial Intelligence, Machine Learning & Deep Learning**
 
