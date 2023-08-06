@@ -1,7 +1,7 @@
 ![MasterHead](https://nira.ac.in/images/machine-banner-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Yash Manmode</h1>
-<h3 align="center">A passionate Software Development Engineer from India</h3>
+<h3 align="center">A passionate Machine Learning Researcher from India</h3>
 
 <img align="right" alt="coring" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
