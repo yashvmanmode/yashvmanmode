@@ -6,7 +6,7 @@
 <img align="right" alt="coring" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working in **Personifwy**
+- 🔭 I’m currently working in **nowhere**
 
 - 🌱 I’m currently learning **Advanced Machine Learning and Deep Learning**
 
