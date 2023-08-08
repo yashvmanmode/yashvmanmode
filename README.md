@@ -1,4 +1,4 @@
-![MasterHead]([https://nira.ac.in/images/machine-banner-1.jpg](https://drive.google.com/file/d/1VaEq23ZyXfaiKc7QOi7X8ZBQ4W2eWCB1/view?usp=share_link))
+![MasterHead]([https://drive.google.com/file/d/1VaEq23ZyXfaiKc7QOi7X8ZBQ4W2eWCB1/view?usp=share_link])
 
 <h1 align="center">Hi 👋, I'm Yash Manmode</h1>
 <h3 align="center">A passionate Machine Learning Researcher from India</h3>
