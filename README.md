@@ -1,4 +1,4 @@
-![MasterHead]([https://drive.google.com/file/d/1VaEq23ZyXfaiKc7QOi7X8ZBQ4W2eWCB1/view?usp=share_link])
+![MasterHead]([https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=1800&t=st=1691468263~exp=1691468863~hmac=97147b3d1c71ec175973694461107e3e32d6f1fe3c69d15a6a32237978e68481])
 
 <h1 align="center">Hi 👋, I'm Yash Manmode</h1>
 <h3 align="center">A passionate Machine Learning Researcher from India</h3>
