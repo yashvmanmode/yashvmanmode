@@ -6,7 +6,7 @@
 <img align="right" alt="coring" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working at **Maharashtra Remote Sensing Application Centre, Nagpur**
+- 🔭 I’m currently working at **National Remote Sensing Centre, ISRO**
 
 - 🌱 I’m currently learning **Advanced Machine Learning and Deep Learning**
 
